@@ -23,26 +23,16 @@
 
 #### Services Section
 <p align="center"> 
-  Coming Soon!!!
-  <!-- <kbd>
+  <kbd>
     <img src="website_images/services.png">
-  </kbd> -->
+  </kbd>
 </p>
 
-#### Footer Section
+#### Contact Section
 <p align="center"> 
-  Coming Soon!!!
-  <!-- <kbd>
-    <img src="website_images/footer.png">
-  </kbd> -->
-</p>
-
-#### Contact Form (pop up)
-<p align="center"> 
-  Coming Soon!!!
-  <!-- <kbd>
+  <kbd>
     <img src="website_images/contact.png">
-  </kbd> -->
+  </kbd>
 </p>
 
 :star: Star me on GitHub — it helps!
