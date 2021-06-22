@@ -38,9 +38,9 @@
 :star: Star me on GitHub — it helps!
 
 ## Features 📋
-⚡️ Fully Responsive\
-⚡️ Wordpress\
-⚡️ Elemantor\
+⚡️ Fully Responsive
+⚡️ Wordpress
+⚡️ Elemantor
 ⚡️ Ocean-wp Theme
 
 ## Installation & Deployment 📦
@@ -51,10 +51,10 @@
 - Head to localhos/wp_portfolio
 
 ## Sections 📚
-✔️ Home\
-✔️ About\
-✔️ Services\
-✔️ Contact Info\
+✔️ Home
+✔️ About
+✔️ Services
+✔️ Contact Info
 
 
 
